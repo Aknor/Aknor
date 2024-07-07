@@ -12,17 +12,17 @@ Eze est un bot multifonctions français crée par Aknor incluant des jeux, de la
 
 Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouver :
 
-🤖 AI
-🎂 Anniversaire
-🔧 Configuration
-🎭 Fun
-📷 Image
-🔎 Information
-🤼 Interaction
-🎮 Jeux
-⛔ Modération
-🎧 Musique
-🔞 NSFW
+* 🤖 AI
+* 🎂 Anniversaire
+* 🔧 Configuration
+* 🎭 Fun
+* 📷 Image
+* 🔎 Information
+* 🤼 Interaction
+* 🎮 Jeux
+* ⛔ Modération
+* 🎧 Musique
+* 🔞 NSFW
 
 Avant d'utiliser Eze il est fortement conseillé de lire attentivement la politique de confidentialité et les conditions d'utilisation du bot.
 
