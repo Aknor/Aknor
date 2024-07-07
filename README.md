@@ -30,7 +30,7 @@ Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouve
 
 ## Développement
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)})
+![Javascript]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)})
 
 ## Important
 
