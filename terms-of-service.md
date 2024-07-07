@@ -30,6 +30,6 @@ Je me réserve le droit de résilier votre accès au bot Discord à tout moment 
 
 ## 7. Contact
 
-Si vous avez des questions ou des préoccupations concernant ces conditions d'utilisation, veuillez nous contacter à l'adresse mail : lulurbn@icloud.com
+Si vous avez des questions ou des préoccupations concernant ces conditions d'utilisation, veuillez me contacter à l'adresse mail : lulurbn@icloud.com
 
 En utilisant Eze, vous acceptez pleinement et consciemment ces conditions d'utilisation.
