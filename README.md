@@ -4,9 +4,9 @@ Eze est un bot multifonctions français crée par Aknor incluant des jeux, de la
 
 ## Liens utiles
 
-[Voter pour Eze](https://top.gg/bot/1090997197371351102)
-[Faire un don](https://ko-fi.com/aknor)
-[Inviter Eze sur Discord](https://discord.com/oauth2/authorize?client_id=1090997197371351102)
+* [Voter pour Eze](https://top.gg/bot/1090997197371351102)
+* [Faire un don](https://ko-fi.com/aknor)
+* [Inviter Eze sur Discord](https://discord.com/oauth2/authorize?client_id=1090997197371351102)
 
 ## Commandes
 
