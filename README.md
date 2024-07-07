@@ -41,7 +41,7 @@ Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouve
 
 ## ‼️ Important
 
-Avant d'utiliser Eze il est fortement conseillé de lire attentivement la politique de confidentialité et les conditions d'utilisation du bot.
+Avant d'utiliser Eze il est recommandé de lire attentivement la politique de confidentialité et les conditions d'utilisation du bot.
 
 * [Politique de confidentialité](https://github.com/Aknor/Aknor/blob/main/privacy-policy.md)
 * [Conditions d'utilisation](https://github.com/Aknor/Aknor/blob/main/terms-of-service.md)
