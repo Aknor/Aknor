@@ -3,6 +3,7 @@
 Eze est un bot multifonctions français crée par Aknor incluant un tas de commandes amusantes ⚡️
 
 <p align="center">
+  <img src="https://media.discordapp.net/attachments/488126372976525343/1240251711382356010/eze.jpeg?ex=668bc16a&is=668a6fea&hm=d2c3a9e17fe1dcca5a7835665a9a1bb0308be93aa3eef74a09665134736edb57&=&format=webp&width=1056&height=1056">
   <img src="https://media.discordapp.net/attachments/488126372976525343/1240251711650529280/eze.png?ex=668bc16a&is=668a6fea&hm=5774fd8e85a697b3e96631240762894cf082a984b6ed26e4dc806e4967ae4fe8&=&format=webp&quality=lossless&width=1360&height=480" alt="Bannière Eze">
 </p>
 
