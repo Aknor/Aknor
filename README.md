@@ -28,6 +28,10 @@ Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouve
 * 🎧 Musique
 * 🔞 NSFW
 
+## Développement
+
+<img src="{https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black}" />
+
 ## Important
 
 Avant d'utiliser Eze il est fortement conseillé de lire attentivement la politique de confidentialité et les conditions d'utilisation du bot.
