@@ -32,6 +32,6 @@ Nous nous réservons le droit de mettre à jour ou de modifier cette politique d
 
 ## 7. Contact
 
-Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à l'adresse mail : lulurbn@icloud.com.
+Pour toute question concernant cette politique de confidentialité, vous pouvez me contacter à l'adresse mail : lulurbn@icloud.com.
 
 En utilisant Eze, vous acceptez les termes de cette politique de confidentialité.
