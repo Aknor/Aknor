@@ -1,6 +1,6 @@
 # Eze
 
-Bienvenue sur Eze, votre bot multifonctions français crée par @aknor conçu pour améliorer et enrichir votre expérience sur Discord ! Avec plus de 100 commandes réparties en diverses catégories, Eze est là pour répondre à tous vos besoins, qu’il s’agisse d’amusement, de gestion, d’interaction ou de modération ⚡️
+Bienvenue sur Eze, votre bot multifonctions français conçu pour améliorer et enrichir votre expérience sur Discord ! Avec plus de 100 commandes réparties en diverses catégories, Eze est là pour répondre à tous vos besoins, qu’il s’agisse d’amusement, de gestion, d’interaction ou de modération ⚡️
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/488126372976525343/1240251711382356010/eze.jpeg?ex=668bc16a&is=668a6fea&hm=d2c3a9e17fe1dcca5a7835665a9a1bb0308be93aa3eef74a09665134736edb57&=&format=webp&width=1056&height=1056" alt="Logo Eze" width="200" height="200">
@@ -11,17 +11,19 @@ Bienvenue sur Eze, votre bot multifonctions français crée par @aknor conçu po
 
 Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouver :
 
-* 🤖 AI
-* 🎂 Anniversaire
-* 🔧 Configuration
-* 🎭 Fun
-* 📷 Image
-* 🔎 Information
-* 🤼 Interaction
-* 🎮 Jeux
-* ⛔ Modération
-* 🎧 Musique
-* 🔞 NSFW
+* 🤖 **AI** : Interactions et fonctionnalités liées à l’intelligence artificielle.
+* 🎂 **Anniversaire** : Gestion et célébration des anniversaires des membres.
+* 🔧 **Configuration** : Outils de configuration pour personnaliser le bot selon vos besoins.
+* 🎭 **Fun** : Divers jeux et activités amusantes.
+* 📷 **Image** : Commandes liées aux images et manipulations graphiques.
+* 🔎 **Information** : Accès rapide à diverses informations et statistiques.
+* 🤼 **Interaction** : Commandes pour interagir avec d’autres membres.
+* 🎮 **Jeux** : Une sélection de mini-jeux pour divertir votre communauté.
+* ⛔ **Modération** : Outils de modération pour maintenir l’ordre sur votre serveur.
+* 🎧 **Musique** : Commandes pour écouter de la musique en toute simplicité.
+* 🔞 **NSFW** : Contenu réservé aux adultes.
+
+Pour voir plus en détail chaque commande dans les catégories exécutez la commande `/help`. D'autres commandes arriveront prochainement donc restez à l'écoute !
 
 ## 🔗 Liens utiles
 
@@ -39,7 +41,9 @@ Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouve
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ‼️ Important
+## ‼️ Informations
+
+Vos suggestions sont précieuses pour moi ! Pour proposer une amélioration, utilisez la commande `/suggest` ou rejoignez le serveur support de [Eze](https://discord.gg).
 
 Avant d'utiliser Eze il est recommandé de lire attentivement la politique de confidentialité et les conditions d'utilisation du bot.
 
