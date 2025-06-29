@@ -11,16 +11,11 @@ Bienvenue sur Eze, votre bot multifonctions français conçu pour améliorer et 
 
 Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouver :
 
-* 🤖 **AI** : Interactions et fonctionnalités liées à l’intelligence artificielle.
-* 🎂 **Anniversaire** : Gestion et célébration des anniversaires des membres.
 * 🔧 **Configuration** : Outils de configuration pour personnaliser le bot selon vos besoins.
 * 🎭 **Fun** : Divers jeux et activités amusantes.
 * 📷 **Image** : Commandes liées aux images et manipulations graphiques.
 * 🔎 **Information** : Accès rapide à diverses informations et statistiques.
-* 🤼 **Interaction** : Commandes pour interagir avec d’autres membres.
-* 🎮 **Jeux** : Une sélection de mini-jeux pour divertir votre communauté.
 * ⛔ **Modération** : Outils de modération pour maintenir l’ordre sur votre serveur.
-* 🎧 **Musique** : Commandes pour écouter de la musique en toute simplicité.
 * 🔞 **NSFW** : Contenu réservé aux adultes.
 
 Pour voir plus en détail chaque commande dans les catégories exécutez la commande `/help`. D'autres commandes arriveront prochainement donc restez à l'écoute !
