@@ -3,8 +3,8 @@
 Bienvenue sur Eze, votre bot multifonctions français conçu pour améliorer et enrichir votre expérience sur Discord ! Avec plus de 100 commandes réparties en diverses catégories, Eze est là pour répondre à tous vos besoins, qu’il s’agisse d’amusement, de gestion, d’interaction ou de modération ⚡️
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/488126372976525343/1240251711382356010/eze.jpeg?ex=669b936a&is=669a41ea&hm=74a2465157200aa3166404eb3d4909148a0d4428cf70bd54b724ff3e521cfc13&=&format=webp&width=1054&height=1054" alt="Logo Eze" width="200" height="200">
-  <img src="https://media.discordapp.net/attachments/488126372976525343/1240251711650529280/eze.png?ex=668bc16a&is=668a6fea&hm=5774fd8e85a697b3e96631240762894cf082a984b6ed26e4dc806e4967ae4fe8&=&format=webp&quality=lossless&width=1360&height=480" alt="Bannière Eze" height="200">
+  <img src="https://cdn.discordapp.com/attachments/488126372976525343/1240251711382356010/eze.jpeg?ex=686268ea&is=6861176a&hm=9e45dc2eb298fd7f7c310bc393ed126461897a8a2029983b2394e6944fcf6d00&" alt="Logo Eze" width="200" height="200">
+  <img src="https://cdn.discordapp.com/attachments/488126372976525343/1240251711650529280/eze.png?ex=686268ea&is=6861176a&hm=859f150388dee412846155c28657f64a8e34f17114ed616f3c9d21e73efa9c8d&" alt="Bannière Eze" height="200">
 </p>
 
 ## ⚙️ Commandes
