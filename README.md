@@ -4,7 +4,7 @@ Bienvenue sur Eze, votre bot multifonctions français conçu pour améliorer et 
 
 <p align="center">
   <img src="https://i.imgur.com/MxTope0.jpeg" alt="Logo Eze" width="200" height="200">
-  <img src="https://cdn.discordapp.com/attachments/488126372976525343/1240251711650529280/eze.png?ex=686268ea&is=6861176a&hm=859f150388dee412846155c28657f64a8e34f17114ed616f3c9d21e73efa9c8d&" alt="Bannière Eze" height="200">
+  <img src="https://i.imgur.com/ZXBtWA4.png" alt="Bannière Eze" height="200">
 </p>
 
 ## ⚙️ Commandes
