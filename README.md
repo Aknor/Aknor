@@ -16,7 +16,6 @@ Eze met à disposition plusieurs catégories de commandes. Vous pourrez retrouve
 * 📷 **Image** : Commandes liées aux images et manipulations graphiques.
 * 🔎 **Information** : Accès rapide à diverses informations et statistiques.
 * ⛔ **Modération** : Outils de modération pour maintenir l’ordre sur votre serveur.
-* 🔞 **NSFW** : Contenu réservé aux adultes.
 
 Pour voir plus en détail chaque commande dans les catégories exécutez la commande `/help`. D'autres commandes arriveront prochainement donc restez à l'écoute !
 
