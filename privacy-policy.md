@@ -1,37 +1,96 @@
-* Dernière mise à jour : 07/07/2024
+    <main class="section">
+      <hr class="policy-divider" />
+      <h1>Politique de confidentialité</h1> 
+      <p>
+        La présente politique de confidentialité a pour objectif de vous
+        informer des modalités de collecte, d’utilisation, de stockage et de
+        protection de vos données personnelles lorsque vous utilisez le bot
+        Discord Eze.
+      </p>
+      <p>
+        EzeBot attache une importance particulière à la confidentialité de vos
+        données et s’engage à respecter les lois applicables en matière de
+        protection des données, notamment le Règlement Général sur la Protection
+        des Données (RGPD).
+      </p>
+      <p>
+        Cette politique vous informe également de vos droits concernant vos
+        données personnelles, ainsi que des moyens pour les exercer.
+      </p>
+      <h2>1. Responsable du traitement</h2>
+      <p class="mail">
+        Aknor, représenté par EzeBot, est responsable du traitement de vos
+        données.<br>Pour toute question, vous pouvez nous contacter à l'adresse :
+        <a href="mailto:contact@ezebot.fr">contact@ezebot.fr</a>
+      </p>
 
-# Politique de confidentialité de Eze
+      <h2>2. Données collectées</h2>
+      <p>
+        Nous collectons exclusivement les données nécessaires au bon
+        fonctionnement du bot :
+      </p>
+      <ul>
+        <li>Identifiant Discord, pseudonyme et avatar</li>
+        <li>Données d’utilisation (commandes émises, logs de modération)</li>
+        <li>Données techniques pour assurer la sécurité et la stabilité</li>
+      </ul>
+      <p>Aucune information sensible n’est collectée.</p>
 
-Moi, développeur du bot Discord Eze, est engagé à respecter et à protéger votre confidentialité. Cette politique de confidentialité explique comment je collecte, utilise et protége les informations que vous me fournissez lorsque vous utilisez Eze.
+      <h2>3. Finalités du traitement</h2>
+      <p>Les données sont utilisées uniquement pour :</p>
+      <ul>
+        <li>Fournir et améliorer les services du bot</li>
+        <li>Assurer la modération et la sécurité sur les serveurs</li>
+        <li>Répondre aux demandes de support</li>
+      </ul>
 
-## 1. Collecte de l'information
+      <h2>4. Durée de conservation</h2>
+      <p>
+        Les données sont conservées uniquement le temps nécessaire à la
+        fourniture du service et supprimées automatiquement en cas d’inactivité
+        prolongée.
+      </p>
 
-Eze ne collecte aucune information personnelle identifiable à moins que cela ne soit expressément fourni par l'utilisateur pour des fonctionnalités spécifiques, telles que des commandes interactives nécessitant des informations d'utilisateur.
+      <h2>5. Partage des données</h2>
+      <p>
+        Vos données ne sont pas partagées avec des tiers, sauf en cas
+        d'obligation légale ou avec votre consentement explicite.
+      </p>
 
-## 2. Types d'informations collectées
+      <h2>6. Cookies</h2>
+      <p>
+        Le site web utilise uniquement des cookies techniques et analytiques
+        anonymes, sans finalité publicitaire.
+      </p>
 
-* Données d'utilisation : Eze peut collecter des données d'utilisation, telles que les commandes exécutées et les interactions avec le bot, afin d'améliorer les performances et l'expérience utilisateur.
+      <h2>7. Sécurité</h2>
+      <p>
+        Nous mettons en place des mesures techniques et organisationnelles pour
+        protéger vos données contre l’accès non autorisé, la divulgation ou la
+        perte.
+      </p>
 
-* Informations techniques : Des informations techniques telles que des identifiants de session ou des identifiants Discord (ID, Pseudo...) peuvent être collectées pour assurer le bon fonctionnement du bot.
+      <h2>8. Vos droits</h2>
+      <p>
+        Conformément au RGPD, vous disposez des droits suivants que vous pouvez
+        exercer en nous contactant :
+      </p>
+      <ul>
+        <li>Droit d’accès</li>
+        <li>Droit de rectification</li>
+        <li>Droit à l’effacement</li>
+        <li>Droit à la limitation du traitement</li>
+        <li>Droit d’opposition</li>
+        <li>Droit à la portabilité</li>
+        <li>Droit de retirer votre consentement à tout moment</li>
+      </ul>
 
-## 3. Utilisation des informations
-
-Les informations collectées sont utilisées uniquement dans le cadre du fonctionnement et de l'amélioration de Eze. Elles ne sont pas vendues, échangées ou divulguées à des tiers sans votre consentement explicite, sauf lorsque cela est requis par la loi.
-
-## 4. Sécurité des informations
-
-Nous mettons en oeuvre des mesures de sécurité raisonnables pour protéger les informations personnelles contre tout accès non autorisé ou toute modification, divulgation ou destruction non autorisée.
-
-## 5. Consentement
-
-En utilisant Eze, vous consentez à notre politique de confidentialité et acceptez ses modalités.
-
-## 6. Modifications de la politique de confidentialité
-
-Nous nous réservons le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, sans préavis. Toute modification sera publiée sur cette page.
-
-## 7. Contact
-
-Pour toute question concernant cette politique de confidentialité, vous pouvez me contacter à l'adresse mail : lulurbn@icloud.com.
-
-En utilisant Eze, vous acceptez les termes de cette politique de confidentialité.
+      <h2>9. Modification de la politique</h2>
+      <p>
+        Cette politique peut être mise à jour. Nous vous recommandons de la
+        consulter régulièrement pour prendre connaissance des éventuelles
+        modifications.
+      </p>
+      <hr class="policy-divider" />
+      <p class="last-updated">Dernière mise à jour : 22 septembre 2025</p>
+    </main>
