@@ -1,5 +1,3 @@
-* * *
-
 Politique de confidentialité
 ============================
 
