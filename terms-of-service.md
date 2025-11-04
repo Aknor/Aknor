@@ -21,7 +21,7 @@ Eze et son propriétaire ne peuvent être tenus responsables des dommages direct
 Ces conditions peuvent être modifiées à tout moment. Les utilisateurs seront informés via le site ou un message officiel. Si vous refusez les modifications, retirez Eze de votre serveur. Le propriétaire d’un serveur peut retirer le bot à tout moment. Eze se réserve le droit de désactiver certaines fonctionnalités ou de retirer le service d’un serveur sans préavis en cas de non-respect des règles.
 
 ## 7. Âge requis et affiliation
-Eze est réservé aux utilisateurs respectant l’âge minimal imposé par Discord [voir les Conditions d’utilisation de Discord](https://discord.com/terms). Eze n’est pas affilié, soutenu ou approuvé par Discord Inc.
+Eze est réservé aux utilisateurs respectant l’âge minimal imposé par Discord voir les [Conditions d’utilisation de Discord](https://discord.com/terms). Eze n’est pas affilié, soutenu ou approuvé par Discord Inc.
 
 ## 8. Contact
 Pour toute question ou demande de support, contactez : contact@ezebot.fr.
