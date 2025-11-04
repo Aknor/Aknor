@@ -1,35 +1,27 @@
-* Dernière mise à jour : 07/07/2024
+# Conditions d’Utilisation
 
-# Conditions d'utilisation de Eze
+## 1. Acceptation et objet
+En ajoutant le bot Discord Eze sur votre serveur et en utilisant ses fonctionnalités, vous reconnaissez accepter sans réserves les présentes conditions générales d’utilisation (CGU). Ces CGU définissent le cadre légal applicable à l’utilisation du bot Eze, propriété de Aknor, et régissent la relation entre l’utilisateur (propriétaire du serveur ou membre) et le service.
 
-Bienvenue ! Avant d'utiliser le bot Discord Eze, veuillez lire attentivement et accepter les conditions d'utilisation suivantes :
+## 2. Fonctionnement du service
+Eze fournit divers outils et fonctionnalités (modération, jeux, gestion, etc.) accessibles à tous les membres des serveurs sur lesquels il est installé. L’utilisation de certaines commandes peut être soumise à des permissions spécifiques ou à la configuration du serveur.
 
-## 1. Utilisation du Bot
+## 3. Règles de bonne conduite
+Ne pas utiliser Eze pour des activités illégales, harcèlement, spam ou toute action contraire au règlement de Discord.
+Respecter les directives de la communauté Discord ainsi que celles définies par l’administrateur du serveur.
+L’utilisateur s’interdit toute tentative de compromettre la sécurité, la stabilité ou l’intégrité du bot ou des serveurs.
 
-Vous acceptez d'utiliser Eze uniquement à des fins légales et conformément aux règles de Discord. Vous ne devez pas utiliser Eze pour tout comportement frauduleux, illégal ou nuisible.
+## 4. Collecte de données
+L’utilisation du bot entraîne la collecte de certaines données nécessaires à son bon fonctionnement (cf. politique de confidentialité). L’utilisateur s’engage à en prendre connaissance.
 
-## 2. Responsabilité
+## 5. Limitation de responsabilité
+Eze et son propriétaire ne peuvent être tenus responsables des dommages directs ou indirects résultant de l’utilisation ou de l’impossibilité d’utiliser le service, ni du comportement des membres d’un serveur utilisant Eze.
 
-Vous êtes responsable de toutes les actions effectuées à travers votre compte Discord en relation avec le bot. Nous ne sommes pas responsables des dommages directs ou indirects causés par l'utilisation ou l'incapacité d'utilisation de Eze.
+## 6. Modification et résiliation
+Ces conditions peuvent être modifiées à tout moment. Les utilisateurs seront informés via le site ou un message officiel. Si vous refusez les modifications, retirez Eze de votre serveur. Le propriétaire d’un serveur peut retirer le bot à tout moment. Eze se réserve le droit de désactiver certaines fonctionnalités ou de retirer le service d’un serveur sans préavis en cas de non-respect des règles.
 
-## 3. Utilisation des Données
+## 7. Âge requis et affiliation
+Eze est réservé aux utilisateurs respectant l’âge minimal imposé par Discord [voir les Conditions d’utilisation de Discord](https://discord.com/terms). Eze n’est pas affilié, soutenu ou approuvé par Discord Inc.
 
-En utilisant Eze, vous consentez à la collecte et à l'utilisation de données d'utilisation conformément à notre politique de confidentialité. Vous acceptez que certaines données d'utilisation puissent être collectées à des fins d'amélioration du service et de personnalisation de l'expérience utilisateur.
-
-## 4. Propriété Intellectuelle
-
-Eze et tous ses contenus (textes, images, codes, etc.) sont la propriété de @aknor. Vous n'avez pas le droit de copier, distribuer, modifier, reproduire, vendre ou exploiter toute partie de Eze sans mon autorisation écrite.
-
-## 5. Modifications
-
-Je me réserve le droit de modifier, suspendre ou interrompre tout ou partie du bot Discord à tout moment sans préavis. Je peux également mettre à jour ces conditions d'utilisation de temps à autre. Il est de votre responsabilité de vérifier les modifications. L'utilisation continue du bot après les modifications constitue votre acceptation des conditions mises à jour.
-
-## 6. Résiliation
-
-Je me réserve le droit de résilier votre accès au bot Discord à tout moment pour violation de ces conditions d'utilisation ou pour toute autre raison.
-
-## 7. Contact
-
-Si vous avez des questions ou des préoccupations concernant ces conditions d'utilisation, veuillez me contacter à l'adresse mail : lulurbn@icloud.com
-
-En utilisant Eze, vous acceptez pleinement et consciemment ces conditions d'utilisation.
+## 8. Contact
+Pour toute question ou demande de support, contactez : contact@ezebot.fr.
