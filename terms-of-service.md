@@ -25,3 +25,7 @@ Eze est réservé aux utilisateurs respectant l’âge minimal imposé par Disco
 
 ## 8. Contact
 Pour toute question ou demande de support, contactez : contact@ezebot.fr.
+
+* * *
+
+Dernière mise à jour : 23 septembre 2025
